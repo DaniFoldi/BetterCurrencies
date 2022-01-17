@@ -1,0 +1,10 @@
+currencies {
+  boldogsagpont {
+    name: "boldogsagpont"
+    displayName: "Boldogságpont"
+    balanceCommand: "bp"
+    balanceTopCommand: "bptop"
+    payCommand: ""
+    invert: false
+  }
+}
